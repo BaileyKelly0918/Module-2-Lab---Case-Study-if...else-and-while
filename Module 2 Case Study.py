@@ -1,3 +1,7 @@
+# Bailey Kelly
+# Module 2 Case Study
+# Takes in a students name and gpa to see if they made the deans list or honor roll 
+
 while True:
     last_name = input("Please enter your last name (or ZZZ to quit): ")
 
